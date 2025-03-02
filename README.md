@@ -100,7 +100,3 @@ The final analysis provides insights into:
 - [Udacity Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 - [WeRateDogs on Twitter](https://twitter.com/dog_rates)
 - [Twitter API Documentation](https://developer.twitter.com/en/docs/twitter-api)
-
----
-
-🔥 **If you found this project useful, consider giving it a ⭐ on GitHub!**  
