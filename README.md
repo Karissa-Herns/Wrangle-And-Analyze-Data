@@ -8,6 +8,12 @@ This project was completed as part of **Udacity’s Data Analyst Nanodegree** an
 
 WeRateDogs is a popular Twitter account known for humorously rating dogs, often assigning scores where the **numerator exceeds the denominator** (e.g., **12/10, 13/10**). The dataset, provided by Udacity, contains **tweet metadata** (tweet ID, timestamp, text) along with extracted details such as **dog names, ratings, and categorical classifications** (doggo, floofer, pupper, puppo).
 
+## Data Dictionary (DOGTIONARY)
+
+Below is a visual reference for the dog stage definitions used in this project:
+
+![dogtionary](https://github.com/user-attachments/assets/215ae856-af67-46b9-b7c7-2408ae95e98f)
+
 ---
 
 ## Technical Implementation
