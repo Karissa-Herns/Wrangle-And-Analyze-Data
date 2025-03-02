@@ -1,7 +1,7 @@
 # WeRateDogs Twitter Data Wrangling
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)  
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)  
 [![Udacity Project](https://img.shields.io/badge/Udacity-Data%20Analyst%20Nanodegree-02b3e4.svg)](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
 This project was completed as part of **Udacity’s Data Analyst Nanodegree** and focuses on **data wrangling, cleaning, and analysis** of the **WeRateDogs** Twitter archive as of **August 1, 2017**.
